@@ -8,7 +8,6 @@ import {
   UserPlus,
   Home
 } from 'lucide-react';
-import { SignOutButton, SignedIn } from '@clerk/clerk-react';
 
 export default function Layout({ children }) {
   // Define navigation links
